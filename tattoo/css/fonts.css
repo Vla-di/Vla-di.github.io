@@ -1,0 +1,51 @@
+
+/*--- Oswald-Regular ---*/
+
+@font-face {
+	font-family: "Oswald-Regular";
+	src: url("../fonts/Oswald-Regular/Oswald-Regular.eot");
+	src: url("../fonts/Oswald-Regular/Oswald-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Oswald-Regular/Oswald-Regular.woff") format("woff"),
+			 url("../fonts/Oswald-Regular/Oswald-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- Oswald-Bold ---*/
+
+@font-face {
+    font-family: "Oswald-Bold";
+    src: url("../fonts/Oswald-Bold/Oswald-Bold.eot");
+    src: url("../fonts/Oswald-Bold/Oswald-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Oswald-Bold/Oswald-Bold.woff") format("woff"),
+    url("../fonts/Oswald-Bold/Oswald-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*--- AkzidenzGroteskPro-XBdCnIt ---*/
+
+@font-face {
+    font-family: "AkzidenzGroteskPro-XBdCnIt";
+    src: url("../fonts/AkzidenzGroteskPro-XBdCnIt/AkzidenzGroteskPro-XBdCnIt.eot");
+    src: url("../fonts/AkzidenzGroteskPro-XBdCnIt/AkzidenzGroteskPro-XBdCnIt.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/AkzidenzGroteskPro-XBdCnIt/AkzidenzGroteskPro-XBdCnIt.woff") format("woff"),
+    url("../fonts/AkzidenzGroteskPro-XBdCnIt/AkzidenzGroteskPro-XBdCnIt.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*--- GothamXNarrow-MediumItalic ---*/
+
+@font-face {
+    font-family: "GothamXNarrow-MediumItalic";
+    src: url("../fonts/GothamXNarrow-MediumItalic/GothamXNarrow-MediumItalic.eot");
+    src: url("../fonts/GothamXNarrow-MediumItalic/GothamXNarrow-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GothamXNarrow-MediumItalic/GothamXNarrow-MediumItalic.woff") format("woff"),
+    url("../fonts/GothamXNarrow-MediumItalic/GothamXNarrow-MediumItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
