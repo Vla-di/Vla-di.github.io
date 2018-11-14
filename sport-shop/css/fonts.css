@@ -1,0 +1,25 @@
+
+/*--- MuseoCyrl-300 ---*/
+@font-face {
+	font-family: "MuseoCyrl-300";
+	src: url("../fonts/MuseoCyrl-300/MuseoCyrl-300.eot");
+	src: url("../fonts/MuseoCyrl-300/MuseoCyrl-300.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/MuseoCyrl-300/MuseoCyrl-300.woff") format("woff"),
+			 url("../fonts/MuseoCyrl-300/MuseoCyrl-300.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- MuseoCyrl-700 ---*/
+
+@font-face {
+	font-family: "MuseoCyrl-700";
+	src: url("../fonts/MuseoCyrl-700/MuseoCyrl-700.eot");
+	src: url("../fonts/MuseoCyrl-700/MuseoCyrl-700.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/MuseoCyrl-700/MuseoCyrl-700.woff") format("woff"),
+			 url("../fonts/MuseoCyrl-700/MuseoCyrl-700.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
