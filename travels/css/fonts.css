@@ -1,0 +1,38 @@
+
+/*--- RobotoCondensed-Regular ---*/
+
+@font-face {
+	font-family: "RobotoCondensed-Regular";
+	src: url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.eot");
+	src: url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.woff") format("woff"),
+			 url("../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.ttf") format("truetype");
+      font-style: normal;
+      font-weight: normal;
+}
+
+/*--- RobotoCondensed-Bold ---*/
+
+@font-face {
+    font-family: "RobotoCondensed-Bold";
+    src: url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.eot");
+    src: url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.woff") format("woff"),
+    url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*--- BigNoodleTitling ---*/
+
+@font-face {
+	font-family: "BigNoodleTitling";
+	src: url("../fonts/BigNoodleTitling/BigNoodleTitling.eot");
+	src: url("../fonts/BigNoodleTitling/BigNoodleTitling.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/BigNoodleTitling/BigNoodleTitling.woff") format("woff"),
+	url("../fonts/BigNoodleTitling/BigNoodleTitling.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
