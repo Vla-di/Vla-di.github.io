@@ -1,0 +1,36 @@
+
+/*--- OpenSans-Italic ---*/
+
+@font-face {
+	font-family: "OpenSans-Regular";
+	src: url("../fonts/OpenSans-Regular/OpenSans-Regular.eot");
+	src: url("../fonts/OpenSans-Regular/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans-Regular/OpenSans-Regular.woff") format("woff"),
+			 url("../fonts/OpenSans-Regular/OpenSans-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- OpenSans-ExtraBold ---*/
+
+@font-face {
+	font-family: "OpenSans-ExtraBold";
+	src: url("../fonts/OpenSans-ExtraBold/OpenSans-ExtraBold.eot");
+	src: url("../fonts/OpenSans-ExtraBold/OpenSans-ExtraBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans-ExtraBold/OpenSans-ExtraBold.woff") format("woff"),
+			 url("../fonts/OpenSans-ExtraBold/OpenSans-ExtraBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- OpenSans-Italic ---*/
+
+@font-face {
+	font-family: "OpenSans-Italic";
+	src: url("../fonts/OpenSans-Italic/OpenSans-Italic.eot");
+	src: url("../fonts/OpenSans-Italic/OpenSans-Italic.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans-Italic/OpenSans-Italic.woff") format("woff"),
+			 url("../fonts/OpenSans-Italic/OpenSans-Italic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
