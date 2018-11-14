@@ -1,0 +1,61 @@
+
+/*--- OpenSans-Regular ---*/
+
+@font-face {
+	font-family: "OpenSans-Regular";
+	src: url("../fonts/OpenSans-Regular/OpenSans-Regular.eot");
+	src: url("../fonts/OpenSans-Regular/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans-Regular/OpenSans-Regular.woff") format("woff"),
+			 url("../fonts/OpenSans-Regular/OpenSans-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- Lato-Bold ---*/
+
+@font-face {
+	font-family: "Lato-Bold";
+	src: url("../fonts/Lato-Bold/Lato-Bold.eot");
+	src: url("../fonts/Lato-Bold/Lato-Bold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Lato-Bold/Lato-Bold.woff") format("woff"),
+			 url("../fonts/Lato-Bold/Lato-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- Montserrat-Bold ---*/
+
+@font-face {
+	font-family: "Montserrat-Bold";
+	src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot");
+	src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff"),
+			 url("../fonts/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- Montserrat-Medium ---*/
+
+@font-face {
+	font-family: "Montserrat-Medium";
+	src: url("../fonts/Montserrat-Medium/Montserrat-Medium.eot");
+	src: url("../fonts/Montserrat-Medium/Montserrat-Medium.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Montserrat-Medium/Montserrat-Medium.woff") format("woff"),
+			 url("../fonts/Montserrat-Medium/Montserrat-Medium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*--- NexaBold ---*/
+
+@font-face {
+	font-family: "NexaBold";
+	src: url("../fonts/NexaBold/NexaBold.eot");
+	src: url("../fonts/NexaBold/NexaBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/NexaBold/NexaBold.woff") format("woff"),
+			 url("../fonts/NexaBold/NexaBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
